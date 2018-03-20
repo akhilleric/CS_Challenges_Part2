@@ -1,0 +1,8 @@
+C:\Users\Bob Tabor\documents\visual studio 2013\Projects\CS-ASP_041\HeroMonster\bin\Debug\HeroMonster.dll
+C:\Users\Bob Tabor\documents\visual studio 2013\Projects\CS-ASP_041\HeroMonster\bin\Debug\HeroMonster.pdb
+C:\Users\Bob Tabor\documents\visual studio 2013\Projects\CS-ASP_041\HeroMonster\obj\Debug\HeroMonster.csprojResolveAssemblyReference.cache
+C:\Users\Bob Tabor\documents\visual studio 2013\Projects\CS-ASP_041\HeroMonster\obj\Debug\HeroMonster.dll
+C:\Users\Bob Tabor\documents\visual studio 2013\Projects\CS-ASP_041\HeroMonster\obj\Debug\HeroMonster.pdb
+C:\Users\Bob Tabor\Desktop\CS-ASP_042\Before\CS-ASP_042\HeroMonster\obj\Debug\HeroMonster.csprojResolveAssemblyReference.cache
+C:\Users\Bob Tabor\Desktop\CS-ASP_042\Before\CS-ASP_042\HeroMonster\obj\Debug\HeroMonster.dll
+C:\Users\Bob Tabor\Desktop\CS-ASP_042\Before\CS-ASP_042\HeroMonster\obj\Debug\HeroMonster.pdb

@@ -1,0 +1,9 @@
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_35_Challenge\CS_35_Challenge\bin\CS_35_Challenge.dll.config
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_35_Challenge\CS_35_Challenge\bin\CS_35_Challenge.dll
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_35_Challenge\CS_35_Challenge\bin\CS_35_Challenge.pdb
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_35_Challenge\CS_35_Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_35_Challenge\CS_35_Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_35_Challenge\CS_35_Challenge\obj\Debug\CS_35_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_35_Challenge\CS_35_Challenge\obj\Debug\CS_35_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_35_Challenge\CS_35_Challenge\obj\Debug\CS_35_Challenge.dll
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_35_Challenge\CS_35_Challenge\obj\Debug\CS_35_Challenge.pdb

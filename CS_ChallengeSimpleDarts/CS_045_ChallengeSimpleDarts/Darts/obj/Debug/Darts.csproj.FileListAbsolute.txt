@@ -1,0 +1,6 @@
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_045ChallengeSimpleDarts\CS_045_ChallengeSimpleDarts\Darts\bin\Debug\Darts.dll
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_045ChallengeSimpleDarts\CS_045_ChallengeSimpleDarts\Darts\bin\Debug\Darts.pdb
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_045ChallengeSimpleDarts\CS_045_ChallengeSimpleDarts\Darts\obj\Debug\Darts.csprojResolveAssemblyReference.cache
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_045ChallengeSimpleDarts\CS_045_ChallengeSimpleDarts\Darts\obj\Debug\Darts.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_045ChallengeSimpleDarts\CS_045_ChallengeSimpleDarts\Darts\obj\Debug\Darts.dll
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_045ChallengeSimpleDarts\CS_045_ChallengeSimpleDarts\Darts\obj\Debug\Darts.pdb

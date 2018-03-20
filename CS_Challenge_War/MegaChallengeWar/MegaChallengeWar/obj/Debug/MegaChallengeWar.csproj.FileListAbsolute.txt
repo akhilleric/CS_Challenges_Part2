@@ -1,0 +1,9 @@
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_Challenge_War\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.dll.config
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_Challenge_War\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.dll
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_Challenge_War\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.pdb
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_Challenge_War\MegaChallengeWar\MegaChallengeWar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_Challenge_War\MegaChallengeWar\MegaChallengeWar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_Challenge_War\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csprojResolveAssemblyReference.cache
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_Challenge_War\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_Challenge_War\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.dll
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_2\CS_Challenge_War\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.pdb
